@@ -4,6 +4,8 @@ Convert Synology Video Station `.vsmeta` metadata files into generic Kodi/Jellyf
 
 Synology has officially deprecated Video Station with DSM 7.2.2. If you are migrating to Jellyfin, Kodi, Plex, or other generic ecosystems, this tool helps you translate your existing closed-format `.vsmeta` sidecar files into standard, openly parsable `movie.nfo` / `tvshow.nfo` / `episodedetails.nfo` files directly alongside your source media.
 
+Looking to extract embedded posters and backdrops as well? Check out the sibling package [vsmeta-to-jpeg](https://github.com/aldarondo/vsmeta-to-jpeg).
+
 This package provides both a **command-line tool** for batch conversion and a **programmatic interface** for integrating the conversion logic into scripts.
 
 ## Installation

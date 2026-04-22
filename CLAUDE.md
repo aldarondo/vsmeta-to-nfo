@@ -31,3 +31,7 @@ CLI tool + programmatic library to convert Synology DS Video .vsmeta sidecar fil
 
 ---
 @~/Documents/GitHub/CLAUDE.md
+
+## Git Rules
+- Never create pull requests. Push directly to main.
+- solo/auto-push OK
